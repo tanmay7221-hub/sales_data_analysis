@@ -24,6 +24,11 @@ Extracted insights from raw data and visualized trends to support decision-makin
 
 
 
+## 🔍 Key Insights
+- Laptop generated the highest sales
+- Sales increased over the months
+- North and West regions performed well
+
 
 
 
