@@ -22,12 +22,15 @@ A sample sales dataset containing product, region, and sales data.
 ## 🚀 Outcome
 Extracted insights from raw data and visualized trends to support decision-making.
 
-
-
 ## 🔍 Key Insights
 - Laptop generated the highest sales
 - Sales increased over the months
 - North and West regions performed well
+
+## 🚀 Future Improvements
+- Add more data for deeper analysis
+- Build interactive dashboard using Power BI or Streamlit
+
 
 
 
