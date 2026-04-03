@@ -25,7 +25,7 @@ Extracted insights from raw data and visualized trends to support decision-makin
 
 
 
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/b2e17e65-c00a-4221-9ccc-543cee19ee7a" />
+
 
 
 
